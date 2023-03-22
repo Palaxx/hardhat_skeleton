@@ -41,7 +41,7 @@ module.exports = {
       accounts: { mnemonic: config.deploy.mnemonic },
     },
 
-    ethRinkeby: {
+    ethGoerli: {
       url: config.deploy.network_url,
       accounts: { mnemonic: config.deploy.mnemonic },
     },
